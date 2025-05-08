@@ -3,7 +3,7 @@ import { defaultCharacter } from "./src/defaultCharacter";
 
 export const mainCharacter: Character = {
     ...defaultCharacter,
-    name: "zerotoinfinity",
+    name: "zero2infinity",
     modelProvider: ModelProviderName.OPENAI, // Or another provider like OLLAMA
     plugins: [{ name: "@elizaos-plugins/client-twitter" } as Plugin],
     settings: {

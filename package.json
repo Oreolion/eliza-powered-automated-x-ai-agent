@@ -21,6 +21,7 @@
     "docker:start": "bash ./scripts/docker.sh start",
     "docker": "pnpm docker:build && pnpm docker:run && pnpm docker:bash",
     "test": "bash ./scripts/test.sh",
+    "test:post": "elizaos run --character zerotoinfinity --post 'Test post from @zerotoinfinity! #AI'",
     "smokeTests": "bash ./scripts/smokeTests.sh",
     "integrationTests": "bash ./scripts/integrationTests.sh"
   },
