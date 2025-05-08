@@ -24,6 +24,7 @@
         "@types/node": "^22.13.5",
         "json5": "2.2.3",
         "ts-node": "^10.9.2",
+        "@elizaos/plugin-twitter": "github:elizaos-plugins/plugin-twitter",
         "yargs": "17.7.2"
     },
     "devDependencies": {
