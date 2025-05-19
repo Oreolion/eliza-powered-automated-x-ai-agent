@@ -1,4 +1,4 @@
-# run following code in terminal
+# run following code in terminal to start agent
 
  `pnpm elizaos plugins list`
  `npm rebuild better-sqlite3`

@@ -1,5 +1,5 @@
 import { type Character, ModelProviderName, Plugin } from "@elizaos/core";
-import { defaultCharacter } from "./src/defaultCharacter";
+import { defaultCharacter } from "./defaultCharacter";
 
 export const mainCharacter: Character = {
     ...defaultCharacter,
